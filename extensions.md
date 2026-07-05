@@ -25,4 +25,4 @@
 
   3. Na caixa de pesquisa cole as extenções uma por uma e clique em instalar
 
-  ### E pronto! Extenções instaladas!
+  **E pronto! Extenções instaladas!**
