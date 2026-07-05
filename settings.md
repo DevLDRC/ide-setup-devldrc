@@ -14,4 +14,4 @@
 
   6. Cole o conteúdo no arquivo que você abriu na sua IDE (substituindo o que estiver lá) e salve (`Ctrl + S` ou `Cmd + S`).
 
-#### E pronto! settings.json configurado!
+  **E pronto! settings.json configurado!**
