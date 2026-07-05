@@ -1,6 +1,6 @@
 # settings.json(global) base que eu uso em IDE's
 
-### Como configurar
+### Como configurar:
 
   1. Abra sua IDE
 
