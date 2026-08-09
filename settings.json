@@ -24,32 +24,12 @@
 	"terminal.integrated.defaultProfile.windows": "PowerShell",
 	"terminal.integrated.fontFamily": "Jetbrains Mono",
 	"terminal.integrated.fontSize": 14,
-	"terminal.integrated.profiles.windows": {
-		"PowerShell": {
-			"source": "PowerShell",
-			"icon": "terminal-powershell"
-		},
-		"Command Prompt": {
-			"path": [
-				"${env:windir}\\Sysnative\\cmd.exe",
-				"${env:windir}\\System32\\cmd.exe"
-			],
-			"args": [],
-			"icon": "terminal-cmd"
-		},
-		"Git Bash": {
-			"source": "Git Bash"
-		},
-		"Windows PowerShell": {
-			"path": "C:\\WINDOWS\\System32\\WindowsPowerShell\\v1.0\\powershell.exe"
-		}
-	},
 	"terminal.integrated.tabs.defaultColor": "terminal.ansiCyan",
 	"window.commandCenter": false,
 	"window.zoomLevel": -1.5,
 	"workbench.colorTheme": "Min Dark",
 	"workbench.iconTheme": "material-icon-theme",
-	"workbench.secondarySideBar.defaultVisibility": "visible",
+	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"workbench.startupEditor": "none",
 	"workbench.tree.indent": 15
 }
