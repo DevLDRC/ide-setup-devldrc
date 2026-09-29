@@ -16,6 +16,30 @@
   ```txt
   miguelsolorio.min-theme
   ```
+- 
+  ```txt
+  usernamehw.errorlens
+  ```
+- 
+  ```txt
+  EditorConfig.EditorConfig
+  ```
+- 
+  ```txt
+  formulahendry.code-runner
+  ```
+- 
+  ```txt
+  humao.rest-client
+  ```
+- 
+  ```txt
+  bradlc.vscode-tailwindcss
+  ```
+- 
+  ```txt
+  biomejs.biome
+  ```
 
 # Como instalar
 
