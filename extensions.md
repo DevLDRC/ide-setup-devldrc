@@ -14,7 +14,7 @@
   ```
 - 
   ```txt
-  miguelsolorio.min-theme
+  Yukina.yukinord
   ```
 - 
   ```txt
