@@ -27,7 +27,7 @@
 	"terminal.integrated.tabs.defaultColor": "terminal.ansiCyan",
 	"window.commandCenter": false,
 	"window.zoomLevel": -1.5,
-	"workbench.colorTheme": "Min Dark",
+	"workbench.colorTheme": "Yukinord",
 	"workbench.iconTheme": "material-icon-theme",
 	"workbench.secondarySideBar.defaultVisibility": "hidden",
 	"workbench.startupEditor": "none",
